@@ -1,0 +1,11 @@
+C:\Nate2019\NSS\workspace\c#\Idioms\bin\Debug\netcoreapp3.0\Idioms.exe
+C:\Nate2019\NSS\workspace\c#\Idioms\bin\Debug\netcoreapp3.0\Idioms.deps.json
+C:\Nate2019\NSS\workspace\c#\Idioms\bin\Debug\netcoreapp3.0\Idioms.runtimeconfig.json
+C:\Nate2019\NSS\workspace\c#\Idioms\bin\Debug\netcoreapp3.0\Idioms.runtimeconfig.dev.json
+C:\Nate2019\NSS\workspace\c#\Idioms\bin\Debug\netcoreapp3.0\Idioms.dll
+C:\Nate2019\NSS\workspace\c#\Idioms\bin\Debug\netcoreapp3.0\Idioms.pdb
+C:\Nate2019\NSS\workspace\c#\Idioms\obj\Debug\netcoreapp3.0\Idioms.csprojAssemblyReference.cache
+C:\Nate2019\NSS\workspace\c#\Idioms\obj\Debug\netcoreapp3.0\Idioms.AssemblyInfoInputs.cache
+C:\Nate2019\NSS\workspace\c#\Idioms\obj\Debug\netcoreapp3.0\Idioms.AssemblyInfo.cs
+C:\Nate2019\NSS\workspace\c#\Idioms\obj\Debug\netcoreapp3.0\Idioms.dll
+C:\Nate2019\NSS\workspace\c#\Idioms\obj\Debug\netcoreapp3.0\Idioms.pdb
